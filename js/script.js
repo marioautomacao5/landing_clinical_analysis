@@ -1,7 +1,6 @@
 // =========================
 // SCRIPT.JS
 // =========================
-
 function openLeadForm() {
   document.getElementById('leadModal').style.display = 'flex';
 }
